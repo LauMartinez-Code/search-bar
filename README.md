@@ -1,5 +1,16 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# About the App
+This App made in React.js is a search bar connected to the [unsplash image API](https://unsplash.com/developers).<br/>
+Typing a term or word and pressing the 'enter' key will search for images related to that term.
+
+# To run this app:
+## Download npm dependencies
+At the project root folder run
+```bash
+npm install
+```
+
 ## Available Scripts
 
 In the project directory, you can run:
